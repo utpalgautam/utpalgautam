@@ -28,7 +28,7 @@ I'm a passionate Computer Science and Engineering student at **NIT Calicut (NITC
 
 ## 🌍 Find Me On
 
-- [LinkedIn](https://www.linkedin.com/in/utpal-gautam/)
+- [LinkedIn](https://www.linkedin.com/in/utpal-gautam-7a0957290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Instagram](https://www.instagram.com/iutpalgautam/)
 - [LeetCode](https://leetcode.com/utpal-gautam/)
 
